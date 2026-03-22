@@ -1,18 +1,15 @@
 {
   "name": "Viper Token",
-  "website": "https://viperscore.io",
+  "website": "https://viperscore.xyz",
   "description": "Blockchain gaming platform on Base with native VPR token. Play games, earn rewards.",
-  "explorer": "https://etherscan.io/token/0xB927b6B463B24e68b9961C83B1607c1495E7B05C",
+  "explorer": "https://basescan.org/token/0xB927b6B463B24e68b9961C83B1607c1495E7B05C",
   "type": "ERC20",
   "symbol": "VPR",
   "decimals": 18,
   "status": "active",
   "id": "0xB927b6B463B24e68b9961C83B1607c1495E7B05C",
   "links": [
-    { "name": "website", "url": "https://viperscore.xyz" },
-    { "name": "website", "url": "https://viperscore.io" },
     { "name": "twitter", "url": "https://x.com/viperscore" },
     { "name": "telegram", "url": "https://t.me/viperscoreio" }
-  ],
-  "tags": ["gaming"]
+  ]
 }

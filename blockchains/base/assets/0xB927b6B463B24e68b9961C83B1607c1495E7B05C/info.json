@@ -1,0 +1,11 @@
+{
+  "name": "Viperscore",
+  "website": "https://viperscore.io",
+  "description": "Blockchain gaming platform on Base with native VPR token.",
+  "explorer": "https://basescan.org/token/0xB927b6B463B24e68b9961C83B1607c1495E7B05C",
+  "type": "ERC20",
+  "symbol": "VPR",
+  "decimals": 18,
+  "status": "active",
+  "id": "0xB927b6B463B24e68b9961C83B1607c1495E7B05C"
+}
